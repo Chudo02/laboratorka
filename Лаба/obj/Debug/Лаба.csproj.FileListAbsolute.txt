@@ -1,0 +1,10 @@
+C:\Users\смпт\source\repos\Лаба\Лаба\bin\Debug\Лаба.exe.config
+C:\Users\смпт\source\repos\Лаба\Лаба\bin\Debug\Лаба.exe
+C:\Users\смпт\source\repos\Лаба\Лаба\bin\Debug\Лаба.pdb
+C:\Users\смпт\source\repos\Лаба\Лаба\obj\Debug\Лаба.csprojAssemblyReference.cache
+C:\Users\смпт\source\repos\Лаба\Лаба\obj\Debug\Лаба.Form1.resources
+C:\Users\смпт\source\repos\Лаба\Лаба\obj\Debug\Лаба.Properties.Resources.resources
+C:\Users\смпт\source\repos\Лаба\Лаба\obj\Debug\Лаба.csproj.GenerateResource.cache
+C:\Users\смпт\source\repos\Лаба\Лаба\obj\Debug\Лаба.csproj.CoreCompileInputs.cache
+C:\Users\смпт\source\repos\Лаба\Лаба\obj\Debug\Лаба.exe
+C:\Users\смпт\source\repos\Лаба\Лаба\obj\Debug\Лаба.pdb
